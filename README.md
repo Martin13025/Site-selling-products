@@ -16,11 +16,6 @@ It's project from my college of IT.
     => MongoDB database
 This project has been making about 2 weeks
 
-Average time spent on programming per day: ![Average time](https://github.com/Martin13025/Site-about-selling-products/assets/115161917/9660d1f4-b5be-408c-9545-89c5cba4343e)
-![Average time 2](https://github.com/Martin13025/Site-about-selling-products/assets/115161917/4a4103d6-6aa2-49bd-9c73-84ed9e1a26fd)
-
-
-The number of programming languages used in this project: ![Number of programming languages](https://github.com/Martin13025/Site-about-selling-products/assets/115161917/ad5277f0-7e6f-41ab-8c3d-ba601bdf5de1)
 
 UPD: An errors occurs on the site during authorization so that it dissappears just reload the page. After that the authorization will be successfull.
 
