@@ -22,7 +22,8 @@ UPD: An errors occurs on the site during authorization so that it dissappears ju
 My contacts: 
     LinkedIn: www.linkedin.com/in/martin-daniels-a6b2b7269
     Telegram for contact with me: https://t.me/LuciusNumerius
-    My E-mail: danpain779@gmail.com
+    My E-mail: 
+danpain779@gmail.com
 v 1.0.0
 - - - - - - - - - - - - - - - - - - - - 
 # Getting Started with Create React App
