@@ -7,7 +7,7 @@ import Basket from './views/Basket';
 import ModalBox from './components/ModalBox';
 import Login from './components/Login';
 import Registration from './components/Registration';
-import Cabinet from './views/Cabinet'
+import Cabinet from './views/Cabinet';
 import MessageBox from './components/MessageBox';
 import OrderBox from './components/OrderBox';
 import AddProductBox from './components/AddProductBox';
